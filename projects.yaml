@@ -1,0 +1,12 @@
+- id: nodecg-io
+  name: "nodecg-io"
+  born: "May 21, 2020"
+  killed: "Apr 13, 2025"
+  status: archived
+  description: "A NodeCG-bundle which implements Social Media API's in the NodeCG framework."
+  fate: "Killed in favor of stubits"
+  links:
+    - label: "GitHub"
+      url: "https://github.com/codeoverflow-org/nodecg-io"
+    - label: "Docs"
+      url: "https://nodecg.io/"

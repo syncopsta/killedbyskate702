@@ -10,3 +10,14 @@
       url: "https://github.com/codeoverflow-org/nodecg-io"
     - label: "Docs"
       url: "https://nodecg.io/"
+
+- id: chatoverflow
+  name: "chatoverflow"
+  born: "May 21, 2020"
+  killed: "Mar 31, 2018"
+  status: archived
+  description: "AWhat if you could combine the power of chat bots, streamer support sites and social media? This is chat overflow."
+  fate: "Killed in favor of nodecg-io"
+  links:
+    - label: "GitHub"
+      url: "https://github.com/codeoverflow-org/chatoverflow"

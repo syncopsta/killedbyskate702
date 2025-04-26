@@ -57,6 +57,17 @@
     - label: "GitHub"
       url: "https://github.com/sebinside/CraftingKeys"
 
+- id: palettecontrol
+  name: "PaletteControl"
+  born: "Jun 1, 2020"
+  killed: "Mar 7, 2025"
+  status: archived
+  description: "The attempt to control software using Palette Gear"
+  fate: "Archived"
+  links:
+    - label: "GitHub"
+      url: "https://github.com/sebinside/PaletteControl"
+
 - id: logisnake
   name: "LogiSnake"
   born: "May 15, 2020"

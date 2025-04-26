@@ -2,7 +2,7 @@
   name: "nodecg-io"
   born: "May 21, 2020"
   killed: "Apr 13, 2025"
-  status: archived
+  status: deprecated
   description: "A NodeCG-bundle which implements Social Media API's in the NodeCG framework."
   fate: "Killed in favor of stubits"
   links:
@@ -15,9 +15,44 @@
   name: "chatoverflow"
   born: "May 21, 2020"
   killed: "Mar 31, 2018"
-  status: archived
-  description: "AWhat if you could combine the power of chat bots, streamer support sites and social media? This is chat overflow."
+  status: deprecated
+  description: "What if you could combine the power of chat bots, streamer support sites and social media? This is chat overflow."
   fate: "Killed in favor of nodecg-io"
   links:
     - label: "GitHub"
       url: "https://github.com/codeoverflow-org/chatoverflow"
+
+- id: craftblock
+  name: "chatoverflow"
+  born: "Jan 10, 2021"
+  killed: "~ Mid 2022"
+  status: archived
+  description: "CraftBlock stands for 'Craft Attack 3 Skyblock' and is an expert skyblock modpack for Minecraft."
+  fate: "Dead"
+  links:
+    - label: "GitHub"
+      url: "https://github.com/sebinside/CraftBlock"
+    - label: "curseforge"
+      url: "https://www.curseforge.com/minecraft/modpacks/craftblock"
+
+- id: steelserieswebcontrol
+  name: "SteelSeriesWebControl"
+  born: "Oct 29, 2017"
+  killed: "Mar 7, 2025"
+  status: archived
+  description: "Inofficial web based control software to work with the SteelSeries GameSense SDK."
+  fate: "Archived"
+  links:
+    - label: "GitHub"
+      url: "https://github.com/sebinside/SteelSeriesWebControl"
+
+- id: craftingkeys
+  name: "CraftingKeys"
+  born: "Jan 30, 2015"
+  killed: "Mar 7, 2025"
+  status: archived
+  description: "Minecraft Forge Mod for faster and easier crafting!"
+  fate: "Archived"
+  links:
+    - label: "GitHub"
+      url: "https://github.com/sebinside/CraftingKeys"

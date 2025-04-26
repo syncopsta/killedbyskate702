@@ -78,3 +78,14 @@
   links:
     - label: "GitHub Fork"
       url: "https://github.com/noeppi-noeppi/logisnake"
+
+- id: nice-done
+  name: "nice.done."
+  born: "Jan 7, 2022"
+  killed: "Spring 2025"
+  status: deleted
+  description: "The creative coding & bodging stream"
+  fate: "Erased from History"
+  links:
+    - label: "GitHub Fork"
+      url: "https://github.com/liketechnik/nice.done."

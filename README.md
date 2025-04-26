@@ -13,7 +13,7 @@ Each project is represented as an item in the main list within `projects.yaml`. 
   name: "nodecg-io" # Display name (use quotes if needed)
   born: "May 21, 2020" # Start date/period (string)
   killed: "Apr 13, 2025" # End date/period (string)
-  status: archived # Must be one of the allowed statuses (see below)
+  status: archived # Must be one of the allowed statuses (discontinued, archived, deprecated)
   description: "A NodeCG-bundle which implements Social Media API's in the NodeCG framework." # Short description
   fate: "Killed in favor of stubits" # Reason for inclusion in this archive
   links: # Optional list of relevant links

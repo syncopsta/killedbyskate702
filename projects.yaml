@@ -56,3 +56,14 @@
   links:
     - label: "GitHub"
       url: "https://github.com/sebinside/CraftingKeys"
+
+- id: logisnake
+  name: "LogiSnake"
+  born: "May 15, 2020"
+  killed: "Spring 2025"
+  status: deleted
+  description: "Snake on your Logitech Keyboard!"
+  fate: "Erased from History"
+  links:
+    - label: "GitHub Fork"
+      url: "https://github.com/noeppi-noeppi/logisnake"

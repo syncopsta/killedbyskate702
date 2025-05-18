@@ -92,7 +92,7 @@
 
 - id: dissertation
   name: "Dissertation"
-  bron: "Feb 4, 2025"
+  born: "Feb 4, 2025"
   killed: "Feb 6, 2025"
   status: archived
   description: "Architecture-Based and Uncertainty-Aware Confidentiality Analysis"

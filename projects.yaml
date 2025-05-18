@@ -89,3 +89,14 @@
   links:
     - label: "GitHub Fork"
       url: "https://github.com/liketechnik/nice.done."
+
+- id: dissertation
+  name: "Dissertation"
+  bron: "Feb 4, 2025"
+  killed: "Feb 6, 2025"
+  status: archived
+  description: "Architecture-Based and Uncertainty-Aware Confidentiality Analysis"
+  fate: "Dr.-Ing. received"
+  links:
+    - label: "GitHub"
+      url: "https://github.com/sebinside/Dissertation"

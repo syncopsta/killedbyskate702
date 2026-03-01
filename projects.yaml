@@ -1,3 +1,30 @@
+- id: guten-sonntag-morgen-stream
+  name: "Guten Sonntag Morgen Stream"
+  born: "2018"
+  killed: "Mar 01, 2026"
+  status: deprecated
+  description: "The iconic Guten Sonntag Morgen Stream."
+  fate: "Dead"
+  links:
+    - label: "Twitch"
+      url: "https://twitch.com/skate702"
+      
+- id: minecraft-wasser
+  name: "Minecraft Wasser"
+  born: "May 21, 2020"
+  killed: "Mar 01, 2026"
+  status: deprecated
+  description: "On stream Lets Play of Minecraft Oceanblock"
+  fate: "Dead"
+
+- id: craftattack
+  name: "Craft Attack"
+  born: "Feb 19, 2014"
+  killed: "Mar 01, 2026"
+  status: deprecated
+  description: "Craft Attack is a popular, long-running German-language YouTube and streaming Minecraft survival project featuring dozens of creators collaborating on a shared Vanilla server"
+  fate: "Problably the last played season"
+
 - id: nodecg-io
   name: "nodecg-io"
   born: "May 21, 2020"
@@ -13,8 +40,8 @@
 
 - id: chatoverflow
   name: "chatoverflow"
-  born: "May 21, 2020"
-  killed: "Mar 31, 2018"
+  born: "Mar 31, 2018"
+  killed: "May 21, 2020"
   status: deprecated
   description: "What if you could combine the power of chat bots, streamer support sites and social media? This is chat overflow."
   fate: "Killed in favor of nodecg-io"

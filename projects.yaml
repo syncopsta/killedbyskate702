@@ -1,3 +1,14 @@
+- id: premiere-remote
+  name: "PremiereRemote"
+  born: "2018"
+  killed: "Mar 23, 2026"
+  status: deprecated
+  description: "Using the Adobe Premiere Extension mechanism, PremiereRemote provides a framework to trigger your own Premiere CEP-based functionality from outside of Premiere, e.g., by using AutoHotkey."
+  fate: "Dead"
+  links:
+    - label: "Github"
+      url: "https://github.com/sebinside/PremiereRemote"
+      
 - id: guten-sonntag-morgen-stream
   name: "Guten Sonntag Morgen Stream"
   born: "2018"
